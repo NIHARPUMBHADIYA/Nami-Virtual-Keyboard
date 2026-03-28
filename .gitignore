@@ -1,0 +1,31 @@
+# Cache directory - contains runtime generated files
+cache/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# AI data files (if they exist outside cache)
+*.pkl
+*.json
+
+# Log files
+*.log
+*.txt
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
